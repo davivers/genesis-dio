@@ -1,1 +1,1 @@
-# genesis-dio
+#Genesis game written in Html, Css and Js
